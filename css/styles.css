@@ -1,9 +1,9 @@
-.hiding {
+/*.hiding {
   display: none;
 }
 .panel-body {
   display: none;
-}
+}*/
 /*$(document).ready(function() {
   $(".panel").click(function() {
     $(".panel-body", this).removeClass("hiding");
